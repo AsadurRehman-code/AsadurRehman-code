@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Asad ur Rehman 👋
 
-<!--
-**AsadurRehman-code/AsadurRehman-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer passionate about building efficient and scalable back-end systems.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on C# .NET projects and enhancing my skills in Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m learning more about REST APIs, Microservices, and Cloud Technologies.
+
+👯 I’m looking to collaborate on open-source projects and backend development work.
+
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/asad-ur-rehman) | Email: asadsiraj.20@gmail.com
+
+💬 Fun Fact: I love blending technology with real-world solutions!
