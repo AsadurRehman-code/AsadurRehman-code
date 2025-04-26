@@ -32,23 +32,3 @@
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsadurRehman-code&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 📊 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadurRehman-code&layout=compact&theme=tokyonight" alt="Most Used Languages">
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsadurRehman-code&theme=tokyonight&row=2&column=3" alt="GitHub Trophies" />
-</p>
-
----
