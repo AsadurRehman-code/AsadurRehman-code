@@ -3,18 +3,18 @@
 
 ---
 
-🌟 About Me:
-- 🔭 I’m currently working as a Software Engineer, building scalable backend systems.
-- 🌱 I’m currently sharpening my skills in **C# .NET**, **Python**, and **REST APIs**.
-- 👯 I’m looking to collaborate on backend projects and open-source contributions.
+## 🌟 About Me
+- 🔭 Currently working as a **Software Engineer**, building scalable backend systems.
+- 🌱 Sharpening my skills in **C# .NET**, **Python**, and **REST APIs**.
+- 👯 Looking to collaborate on backend projects and open-source contributions.
 - 💬 Ask me about **C#**, **.NET**, **Python**, **SQL**, and **APIs**.
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/asad-ur-rehman)** | **Email: your-email@example.com**
-- ⚡ Fun Fact: I believe "Code is like humor. When you have to explain it, it’s bad." 😄
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/asad-ur-rehman) | Email: **your-email@example.com**
+- ⚡ Fun Fact: *"Code is like humor. When you have to explain it, it’s bad."* 😄
 
 ---
 
-🌟 Technologies & Tools:
-<p align="left">
+## 🛠️ Technologies & Tools
+<p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -25,9 +25,30 @@
 
 ---
 
-📈 GitHub Stats:
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AsadurRehman-code&show_icons=true&theme=tokyonight" alt="Asad's GitHub stats" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsadurRehman-code&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadurRehman-code&layout=compact&theme=tokyonight" alt="Most Used Languages">
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AsadurRehman-code&theme=tokyonight&row=2&column=3" alt="GitHub Trophies" />
 </p>
 
 ---
